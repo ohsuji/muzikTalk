@@ -1,5 +1,6 @@
 # 🐰 muzikTalk
-- sass로 카카오톡 화면 구현하기
+- scss로 카카오톡 화면 구현하기
+(@mixin, @include)
 
 ### DEMO :  https://ohsuji.github.io/muzikTalk/
 
